@@ -8,3 +8,14 @@
 .section-follow .fa-4x{
     margin: 5x 10px;
 }
+
+.h1{
+    font-size: 45px;
+    text-shadow: 0 0 0.2em rgb(17, 170, 55), 0 0 0.2em rgb(6, 139, 95), 0 0 0.2em rgb(255, 255, 255)
+    
+}
+
+.h2{
+    font-size: 25px;
+    text-shadow: 0 0 0.2em rgb(17, 170, 55), 0 0 0.2em rgb(6, 139, 95), 0 0 0.2em rgb(255, 255, 255)
+}
